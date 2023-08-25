@@ -1,0 +1,21 @@
+.td{ 
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+    display: table-cell;
+    float: left;
+}
+
+
+.td2{
+    width: 10%;
+    background-color: rgb(126, 229, 218);
+    margin-right: 10px;
+}
+   
+.td3{
+    width: 150px;
+    margin-top: 1em;
+    background-color:rgb(126, 229, 218);
+    float: right;
+   
+}   
